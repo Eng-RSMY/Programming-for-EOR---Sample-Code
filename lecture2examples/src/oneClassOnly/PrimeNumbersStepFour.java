@@ -12,7 +12,7 @@ public class PrimeNumbersStepFour {
 				System.out.println("Number: " + i + " is a Prime.");
 			}
 		}
-		scan.close();
+		scan.close();//remember to close the scanner
 	}
 
 	/*
