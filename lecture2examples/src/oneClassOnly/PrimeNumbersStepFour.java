@@ -15,6 +15,9 @@ public class PrimeNumbersStepFour {
 		scan.close();
 	}
 
+	/*
+	 * Returns if the argument is prime or not
+	 */
 	static boolean isPrimeNumber(int number) {
 		int counter = 2;
 		boolean isItPrime = true;
