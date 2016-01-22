@@ -1,1 +1,5 @@
+## Hide the .metadata folder from Eclipse, we don't need it in the repository
 .metadata/
+
+## Hide any .class files
+*.class
