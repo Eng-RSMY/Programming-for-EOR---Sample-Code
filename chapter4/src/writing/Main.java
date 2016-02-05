@@ -6,14 +6,14 @@ public class Main {
 	
 	// A poem where going to write to a file
 	private static String[] poem = {"The road to wisdom?",
-			"—Well, it's plain and simple to express:",
+			"--Well, it's plain and simple to express:",
 			"\tErr,",
             "and err,",
             "and err again,",
             "\tbut less,",
             "\tand less,",
             "\tand less.",
-            "\t\t — Piet Hein"};
+            "\t\t --Piet Hein"};
 	
 	public static void main(String[] args) throws IOException{
 		WriteAFile fileWriter = new WriteAFile();
