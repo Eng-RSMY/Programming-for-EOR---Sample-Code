@@ -15,7 +15,7 @@ public class Main {
             "\tand less.",
             "\t\t --Piet Hein"};
 	
-	public static void main(String[] args) throws IOException{
+	public static void main(String[] args) throws IOException {
 		WriteAFile fileWriter = new WriteAFile();
 		
 		// First line we write, 

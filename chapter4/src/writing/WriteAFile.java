@@ -31,6 +31,8 @@ public class WriteAFile {
 			writer.write(text + "\n");
 		}
 		
+		writer.flush();
+		
 		writer.close();
 	}
 

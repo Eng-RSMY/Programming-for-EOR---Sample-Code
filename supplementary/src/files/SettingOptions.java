@@ -1,5 +1,5 @@
 package files;
 
 public enum SettingOptions {
-	A, B, C, D, E,
+	SETTING_1, SETTING_2, SETTING_3, SETTING_4, SETTING_5,
 }
