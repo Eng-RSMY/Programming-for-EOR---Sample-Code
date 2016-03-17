@@ -1,0 +1,6 @@
+name, limit
+xlower,1
+xupper,27
+step,0.001
+c1,2
+epsilon,0.001
